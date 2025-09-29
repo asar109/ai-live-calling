@@ -10,8 +10,6 @@ const HeroSection = () => {
       <div className="flex flex-col justify-center items-center py-32 text-center text-white">
        <h1 className="text-6xl md:text-8xl font-bold leading-[1] bg-clip-text text-transparent bg-gradient-to-r tracking-wide from-amber-500 to-pink-600">
           Boost
-          
-          
           <br /> Confidence
         </h1>
         <p className="mt-4 text-lg md:text-xl max-w-xl">

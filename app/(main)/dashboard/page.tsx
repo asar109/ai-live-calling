@@ -1,9 +1,12 @@
-import React from 'react'
 
 const page = () => {
-  return (
-    <div>page</div>
-  )
-}
 
-export default page
+
+  return (
+    <div>
+      <h1 className="text-2xl font-bold">Dashboard</h1>
+    </div>
+  );
+};
+
+export default page;
